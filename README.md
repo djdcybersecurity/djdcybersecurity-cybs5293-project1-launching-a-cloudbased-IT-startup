@@ -1,7 +1,7 @@
 # CYBS 5293 – Project 1: Launching a Cloud-Based IT Startup  
 **Team 1 – Montreal, Canada**  
 **Startup:** Aurora Ledger  
-**Instructor:** [Add instructor name if required]  
+**Instructor:** Dr. Sungbo Jung
 **Date:** November 2025  
 
 ---
@@ -107,3 +107,4 @@ Aurora Ledger implements a **multi-layered cloud security framework**:
 **Team 1 – Montreal, Canada**  
 Daren (Lead / Systems Architect) • [Add other team members]  
 *CYBS 5293 – Launching a Cloud-Based IT Startup*
+
