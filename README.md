@@ -99,7 +99,7 @@ Aurora Ledger implements a **multi-layered cloud security framework**:
 | Security & Architecture | ✅ 100% |
 | Repo Organization / Documentation | ✅ 100% |
 
-**Overall Project Completion:** ✅ **100% – Ready for Submission**
+
 
 ---
 
@@ -107,4 +107,5 @@ Aurora Ledger implements a **multi-layered cloud security framework**:
 **Team 1 – Montreal, Canada**  
 Daren (Lead / Systems Architect) • [Add other team members]  
 *CYBS 5293 – Launching a Cloud-Based IT Startup*
+
 
