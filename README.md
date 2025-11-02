@@ -100,12 +100,68 @@ Aurora Ledger implements a **multi-layered cloud security framework**:
 | Repo Organization / Documentation | ✅ 100% |
 
 
+---
+
+## 📚 References
+
+**Amazon Web Services (AWS). (2024).** *Overview of Cloud Computing with AWS.*  
+[https://aws.amazon.com/what-is-cloud-computing/](https://aws.amazon.com/what-is-cloud-computing/)  
+> **Description:** This source provides foundational information about cloud computing models — **IaaS**, **PaaS**, and **SaaS** — and helps validate Aurora Ledger’s cloud service design. It supports the comparison between service models by explaining scalability, cost, and infrastructure flexibility from an industry leader’s perspective.
+
+---
+
+**Proxmox Server Solutions GmbH. (2024).** *Proxmox VE Documentation.*  
+[https://www.proxmox.com/en/proxmox-ve](https://www.proxmox.com/en/proxmox-ve)  
+> **Description:** The official documentation for Proxmox VE supports the project’s **PaaS implementation** choice. It describes how Proxmox’s virtualization technology enhances resource management, scalability, and secure multi-tenant deployment — all key components of Aurora Ledger’s architecture.
+
+---
+
+**TurnKey Linux. (2024).** *TurnKey GNU/Linux Appliance Library.*  
+[https://www.turnkeylinux.org/](https://www.turnkeylinux.org/)  
+> **Description:** This library provides pre-configured, lightweight Linux containers suitable for **SaaS environments**. It supports Aurora Ledger’s approach to rapid deployment, reduced maintenance, and streamlined scalability through container-based application delivery.
+
+---
+
+**National Institute of Standards and Technology (NIST). (2023).** *NIST SP 800-145: The NIST Definition of Cloud Computing.*  
+[https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)  
+> **Description:** The NIST publication is the authoritative source defining cloud computing models and their characteristics. It reinforces Aurora Ledger’s technical framework and ensures that terminology and architectural references align with globally recognized standards.
+
+---
+
+**Wazuh, Inc. (2024).** *Wazuh Security Platform Documentation.*  
+[https://documentation.wazuh.com/](https://documentation.wazuh.com/)  
+> **Description:** Wazuh is an open-source SIEM and XDR platform. This documentation supports Aurora Ledger’s **security monitoring plan**, detailing features like intrusion detection, log analysis, and real-time alerting, which strengthen the project’s multi-layered cybersecurity strategy.
+
+---
+
+**Payment Card Industry Security Standards Council (PCI SSC). (2024).** *PCI DSS v4.0 Requirements and Security Assessment Procedures.*  
+[https://www.pcisecuritystandards.org/](https://www.pcisecuritystandards.org/)  
+> **Description:** PCI DSS v4.0 outlines data protection and encryption standards for financial institutions. It supports Aurora Ledger’s implementation of **AES-256 encryption**, **TLS 1.3**, and **multi-factor authentication**, ensuring compliance with financial data handling regulations.
+
+---
+
+**FINTRAC (Financial Transactions and Reports Analysis Centre of Canada). (2024).** *Compliance Program Guidance for Financial Institutions.*  
+[https://www.fintrac-canafe.gc.ca/](https://www.fintrac-canafe.gc.ca/)  
+> **Description:** FINTRAC provides Canadian compliance and anti-money laundering guidelines. It strengthens Aurora Ledger’s focus on **regulatory compliance automation**, confirming alignment with national standards for secure and lawful financial operations.
+
+---
+
+### 🧩 Summary
+
+These references collectively enhance the credibility of Aurora Ledger’s project by:  
+- Validating **technical architecture decisions** (AWS, Proxmox, TurnKey Linux).  
+- Reinforcing **security and compliance standards** (PCI DSS, FINTRAC, Wazuh).  
+- Ensuring **alignment with authoritative definitions** and global frameworks (NIST).  
+- Supporting the **academic and professional legitimacy** of the cost and scalability analysis.
+
+
 
 ---
 
 **Prepared by:**  
 **Team 1 – Montreal, Canada**  
-Daren (Lead / Systems Architect) • [Add other team members]  
+Daren Diaz, Conner Culpepper, Conner Tunnell, Hunter Hammontree, Wesley White
 *CYBS 5293 – Launching a Cloud-Based IT Startup*
+
 
 
